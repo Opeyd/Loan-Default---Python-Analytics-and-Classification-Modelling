@@ -1,6 +1,1 @@
-# Loan-Default---Python-Analytics-and-Classification-Modelling
-Scenario:
-The Data Analytics team has been tasked to help the Collections team in the borrowers that are rolling forward from an early due stage to later due stages. For that you are given a dataset that contains customers that have been in an early due stage (1-30 days delinquent) and some of their main attributes.
-
-Your task:
-a. Predict whether the loan rolled forward or not.
+The Data Analytics team has been tasked to help the Collections team in identifying borrowers rolling forward from an early due stage to later due stages. For that, a dataset that includes customer information for those in the early due stage (1-30 days delinquent) and their main attributes has been provided. The aim is to use data analytics techniques to analyze this dataset and extract insights that will help the Collections team in developing targeted strategies to address the problem of late payments. The team must analyze the historical payment patterns of the customers in the dataset, identify patterns and trends, and develop predictive models that can accurately forecast which customers are most likely to become delinquent. The recommendations provided by the Data Analytics team should be based on data-driven insights and should enable the Collections team to reduce late payments and improve the overall financial health of the organization. The ultimate goal is to improve the efficiency of the Collections team and reduce the organization's risk of bad debt.
